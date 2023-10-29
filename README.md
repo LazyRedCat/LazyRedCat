@@ -18,4 +18,4 @@ As a web developer, I have developed a variety of skills through my projects and
 - **Operating Systems**: Windows
 
 ## 🌐 GitHub Pages
-https://lazyredcat.github.io/
+- **lazyredcat.github.io**
