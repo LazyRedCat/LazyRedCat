@@ -17,5 +17,4 @@ As a web developer, I have developed a variety of skills through my projects and
 - **Tools**: VS Code
 - **Operating Systems**: Windows
 
-## 🌐 GitHub Pages
-- [Click](https://lazyredcat.github.io/)
+## 🌐 [GitHub Pages](https://lazyredcat.github.io/)
