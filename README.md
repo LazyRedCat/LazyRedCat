@@ -11,7 +11,7 @@ As someone who enjoys continuous learning, I frequently engage in programming ac
 ## 💼 Skills
 As a web developer, I have developed a variety of skills through my projects and experiences. Here are some of the key skills that define my expertise:
 
-- **Languages**: HTML, CSS
+- **Languages**: HTML, CSS, JS
 - **Front-End Development**: Responsive Design, UI/UX, CSS Flexbox, CSS Grid
 - **Version Control**: Git, GitHub
 - **Tools**: VS Code
